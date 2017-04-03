@@ -94,13 +94,13 @@ textarea {
     left: 0;
     right: 0;
     width: 100%;
-    background: url("https://drive.google.com/file/d/0B3A7u4TnVb1_cXZTRjF6VER3dDA/view");
+    background: url("http://www.liquid-nexxus.com/files/3213/8781/5619/binary-banner.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
 div.container {
     width: 100%;
-    height: 100%;
+    height: 50%;
     min-width: 1000px;
     min-height: 1000px;
 }
